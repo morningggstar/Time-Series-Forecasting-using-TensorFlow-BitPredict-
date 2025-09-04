@@ -19,13 +19,13 @@ This work demonstrates practical knowledge in applied deep learning for finance,
 
 
 ## Key Features
-✅ End-to-end forecasting pipeline built in TensorFlow for daily BTC/USD price prediction.
-✅ Implemented and compared Dense, Conv1D, LSTM, and N-BEATS models.
-✅ Designed ensemble models to combine predictions and improve robustness.
-✅ Integrated feature engineering (e.g., Bitcoin block-reward halving) to enhance predictive accuracy.
-✅ Performed multi-horizon forecasting (predicting multiple days ahead).
-✅ Added uncertainty estimation using ensemble methods.
-✅ Rigorous evaluation using MAE, MAPE, RMSE, MASE metrics.
+* End-to-end forecasting pipeline built in TensorFlow for daily BTC/USD price prediction.
+* Implemented and compared Dense, Conv1D, LSTM, and N-BEATS models.
+* Designed ensemble models to combine predictions and improve robustness.
+* Integrated feature engineering (e.g., Bitcoin block-reward halving) to enhance predictive accuracy.
+* Performed multi-horizon forecasting (predicting multiple days ahead).
+* Added uncertainty estimation using ensemble methods.
+* Rigorous evaluation using MAE, MAPE, RMSE, MASE metrics.
 
 
 ## Results
